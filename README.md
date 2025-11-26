@@ -81,7 +81,3 @@ API RESTful para gestão de vendas de produtos, desenvolvida com **Node.js**, **
 - Token enviado no **cookie HTTP-only** para maior segurança
 - Extração do token via `cookies` no `AuthGuard`
 - Refresh de sessão e proteção contra XSS
-
----
-
-## 📁 Estrutura de Pastas (Clean Architecture + DDD)
